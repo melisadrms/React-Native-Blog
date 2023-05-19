@@ -1,5 +1,3 @@
-//Melisa Durmuş Case Study
-
 import {
   StyleSheet,
   Text,
